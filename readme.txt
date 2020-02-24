@@ -4,4 +4,8 @@ Git is free software.
 
 local add files...
 
-add branch test...
+<<<<<<< HEAD
+add branch test
+=======
+add branch testing
+>>>>>>> dev
